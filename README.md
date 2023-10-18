@@ -16,4 +16,4 @@
 Convido você a explorar meu perfil e descobrir mais sobre meu trabalho e projetos. Vamos conectar e colaborar para criar um futuro digital mais confiável e emocionante para todos!🚀
 
 ![AnaClara GitHub stats](https://github-readme-stats.vercel.app/api?username=devanaclaramota&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
